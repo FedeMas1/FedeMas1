@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hola, soy Federico Masera, tengo 22 años y soy argentino. Estoy terminando del bootcamp de programación de Soy Henry y estudiando una tecnicatura en análisis de sistemas.
+Estoy apuntando a convertirme un un desarrollador de paginas web.
+Los lenguajes de programación en los que me especializo son: JavaScript
+React.js
+Css
+Pseint
