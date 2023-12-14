@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-En la actualidad estoy cursando un bootcamp de programacion para convertirme en un fullstack developer y estoy estudiando una tecnicatura en analisis de sistemas, estoy apuntando a convertirme en un desarrolador de paginas web en el corto plazo.
+Cursé y aprobé un curso de programacion para convertirme en un fullstack developer y estoy estudiando una tecnicatura en analisis de sistemas, estoy apuntando a convertirme en un desarrolador de paginas web en el corto plazo.
+
+También estoy aprendiendo python
 
 Mi objetivo es conseguir un trabajo para poder insertarme en el mercado laboral para poder ganar experiencia y poder mejorar y expandir mis conocimientos.
 
