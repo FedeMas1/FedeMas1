@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 Cursé y aprobé un curso de programacion para convertirme en un fullstack developer y estoy estudiando una tecnicatura en analisis de sistemas, estoy apuntando a convertirme en un desarrolador de paginas web en el corto plazo.
 
-También estoy aprendiendo python
+Estoy estudiando la carrera de tecnicatura en sistemas, de momento me encuentro en segundo año con todas las materias de primer año aprobadas, tengo conocimiento basicos sobre PSint, python, microsoft access y C#.
 
 Mi objetivo es conseguir un trabajo para poder insertarme en el mercado laboral para poder ganar experiencia y poder mejorar y expandir mis conocimientos.
 
-Los lenguajes que manejo son: JavaScript, Css, SQL y PSeInt.
-Base de datos: PostgresSQL y psql.
+Los lenguajes que manejo son: JavaScript, Css, SQL, C# y Python.
+Base de datos: PostgresSQL, psql y microsoft access.
 Frameworks: Sequelize, React y Express.
 
 Estoy esperando con ansias poder poner mis conocimientos a prueba en un trabajo, estoy practicando y mejorando mis habilidades constantemente y siempre dispuesto a aprender nuevos lenguajes y tecnologias para mejorar.
