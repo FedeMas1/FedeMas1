@@ -31,7 +31,7 @@ Muchas gracias por haber leído.
 
 Formas de contacto:
 
-Whatsapp: +54 116 537 2792
+Whatsapp: +54 11 6537 2792
 
 email: fedemsr2000@gmail.com
 
